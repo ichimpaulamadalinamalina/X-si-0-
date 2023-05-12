@@ -1,0 +1,76 @@
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.exe
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.deps.json
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.runtimeconfig.json
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.runtimeconfig.dev.json
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.dll
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ref\ALPHABETA_MINIMAX.dll
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.pdb
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csprojAssemblyReference.cache
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.Form1.resources
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csproj.GenerateResource.cache
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.AssemblyInfoInputs.cache
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.AssemblyInfo.cs
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csproj.CoreCompileInputs.cache
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.dll
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ref\ALPHABETA_MINIMAX.dll
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.pdb
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.genruntimeconfig.cache
+C:\Users\malin\source\repos\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.Properties.Resources.resources
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.exe
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.deps.json
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.runtimeconfig.json
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.runtimeconfig.dev.json
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ref\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.pdb
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csprojAssemblyReference.cache
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.Form1.resources
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.Properties.Resources.resources
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csproj.GenerateResource.cache
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.AssemblyInfoInputs.cache
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.AssemblyInfo.cs
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csproj.CoreCompileInputs.cache
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ref\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.pdb
+C:\Users\malin\Desktop\IchimPaulaMadalina\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.genruntimeconfig.cache
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.exe
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.deps.json
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.runtimeconfig.json
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.runtimeconfig.dev.json
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ref\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.pdb
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csprojAssemblyReference.cache
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.Form1.resources
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.Properties.Resources.resources
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csproj.GenerateResource.cache
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.AssemblyInfoInputs.cache
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.AssemblyInfo.cs
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csproj.CoreCompileInputs.cache
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ref\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.pdb
+C:\Users\malin\Desktop\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.genruntimeconfig.cache
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.exe
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.deps.json
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.runtimeconfig.json
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.runtimeconfig.dev.json
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ref\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\bin\Debug\net5.0-windows\ALPHABETA_MINIMAX.pdb
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csprojAssemblyReference.cache
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.Form1.resources
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.Properties.Resources.resources
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csproj.GenerateResource.cache
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.AssemblyInfoInputs.cache
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.AssemblyInfo.cs
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.csproj.CoreCompileInputs.cache
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ref\ALPHABETA_MINIMAX.dll
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.pdb
+C:\Users\malin\Desktop\Facultate\an 4\Eu\SEMESTRUL1\IA\IchimPaulaMadalina_proiectIA\ALPHABETA_MINIMAX\obj\Debug\net5.0-windows\ALPHABETA_MINIMAX.genruntimeconfig.cache
