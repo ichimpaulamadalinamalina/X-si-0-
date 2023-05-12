@@ -1,2 +1,2 @@
-# X-si-0-
+# X si 0
 Algoritmul Minimax cu retezarea alfa-beta. Proiect la materia Inteligenta Artificiala. 
